@@ -70,9 +70,4 @@ I enjoy learning new technologies, solving problems, and building creative, prac
 
 ---
 
-### 🔝 Top Contributed Repos
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Surath83&limit=5&theme=vision-friendly-dark)
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5d55bf&height=120&section=footer"/>
