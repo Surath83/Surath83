@@ -68,6 +68,4 @@ I enjoy learning new technologies, solving problems, and building creative, prac
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surath83&theme=dark&layout=compact&hide=stars)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Surath83&theme=dark)
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5d55bf&height=120&section=footer"/>
