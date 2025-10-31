@@ -15,8 +15,7 @@ I enjoy learning new technologies, solving problems, and building creative, prac
 - 📚 Currently learning:  
   - React Native  
   - Node.js & Express.js  
-  - MongoDB  
-  - Flutter (exploring)  
+  - MongoDB   
 - 🚀 Looking to contribute to meaningful projects.  
 - 🎮 Outside tech: enjoy gaming, music, and exploring tech innovations.  
 - 📫 Reach me at: [surath172003@gmail.com](mailto:surath172003@gmail.com)  
@@ -28,7 +27,6 @@ I enjoy learning new technologies, solving problems, and building creative, prac
   <a href="https://github.com/Surath83"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/surath-chowdhury/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/surath_chowdhury/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/Surath83"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </div>
 
 ---
@@ -48,7 +46,6 @@ I enjoy learning new technologies, solving problems, and building creative, prac
 #### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Databases
@@ -60,12 +57,5 @@ I enjoy learning new technologies, solving problems, and building creative, prac
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Surath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surath83&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surath83&theme=dark&layout=compact&hide=stars)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Surath83&theme=dark)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5d55bf&height=120&section=footer"/>
