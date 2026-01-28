@@ -96,11 +96,13 @@ I enjoy learning new technologies, solving problems, and building creative, prac
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Contribution Activity
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Surath83&theme=tokyo-night&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Surath83&theme=react-dark&hide_border=true&area=true"
   width="100%"
 />
+
 
 ### 📈 GitHub Stats
 <div align="center">
