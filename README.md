@@ -94,4 +94,18 @@ I enjoy learning new technologies, solving problems, and building creative, prac
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
+---
+
+### 📊 GitHub Activity
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Surath83&theme=tokyo-night&hide_border=true"
+  width="100%"
+/>
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surath83&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5d55bf&height=120&section=footer"/>
