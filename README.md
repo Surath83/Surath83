@@ -119,8 +119,12 @@ I enjoy learning new technologies, solving problems, and building creative, prac
 
 ---
 
-### 📈 GitHub Stats
+### 👀 Profile Visitors
 
-![Surath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surath83&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Surath83&label=Profile%20Views&color=4a2b99&style=for-the-badge" alt="profile views"/>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5d55bf&height=120&section=footer"/>
